@@ -1,7 +1,7 @@
 package labthursday;
 
 import java.util.*;
-public class StudentsDetails {
+public class StudentRecord {
 	Scanner s = new Scanner(System.in);
 	String name,id,course;
 	public StudentsDetails()
