@@ -1,4 +1,4 @@
-package matrixmultiplication;
+package labthursday;
 
 public class MatrixMultiplication {
 	
